@@ -13,3 +13,5 @@ On a set cadence, loads all the slack, notion, github (code + PR Review) data, j
 2. Attach your source (Slack, Notion, whatever is supported)
 3. Copy the ROUTINE.md file (edit according to your needs) AND ENRICH your variables ( username, email, repositories of interest)
 4. Ensure that you have google-drive folder set up / ( you could switch to any other data tracking tool really tbh)
+
+<img width="3863" height="3337" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/c5a9c02a-e696-43e8-961b-4877dfbcba9a" />
